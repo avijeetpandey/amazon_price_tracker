@@ -21,4 +21,4 @@ node price.js <URL> <PRICE>
 
 ```
 
-![DEMO IMAGE](./screenshot.png?raw=true "DEMO RECIEVED MAIL"
+![DEMO IMAGE](screenshot.png)
