@@ -47,7 +47,7 @@ async function checkPice() {
 
  function sendMail(subject,body){
     const email={
-        to:"deridaw@dmail1.net",
+        to:"ENTER_YOUR_MAIL_ADDRESS_HERE",
         from:"amazonpriceChecker@example.com",
         subject:subject,
         text : body,
