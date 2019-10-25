@@ -8,7 +8,7 @@ const url=args[0];
 const minprice=args[1];
 
 
-
+//demo url for use 
 //const url='https://www.amazon.in/dp/B07V1KDNRR';
 
 checkPice();
