@@ -1,4 +1,4 @@
-i# Amazon price tracker
+# Amazon price tracker
 
 ## This is a simple terminal based app that tracks the price of items on amazon's site and sends the email when the price goes down
 
@@ -20,3 +20,5 @@ iSendGrid
 node price.js <URL> <PRICE>
 
 ```
+
+![DEMO IMAGE](./screenshot.png?raw=true "DEMO RECIEVED MAIL"
