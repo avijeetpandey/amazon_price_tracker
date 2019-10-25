@@ -1,0 +1,22 @@
+{
+  "name": "price_tracker_js",
+  "version": "1.0.0",
+  "description": "A command line based app to track the price on amazon",
+  "main": "price.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "price_tracker",
+    "amazon",
+    "nightmare",
+    "sendgrid"
+  ],
+  "author": "Avijeet Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "dotenv": "^8.2.0",
+    "nightmare": "^3.0.2"
+  }
+}
